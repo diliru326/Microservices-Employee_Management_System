@@ -1,0 +1,1 @@
+Cannot upload zipking server to the repo due to size matter. after cloning download the zipking server and paste inside the root folder
